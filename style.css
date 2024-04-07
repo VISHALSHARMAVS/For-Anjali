@@ -12,7 +12,7 @@ body {
 overflow: hidden;
   background-size: 1000px;
   /* background-image: url("https://www.psdgraphics.com/wp-content/uploads/2022/01/white-math-paper-texture.jpg"); */
-  background-image: url("/images/img20.jpg") ;
+  background-image: url("/images/img20.jpg");
   background-size:cover;
   background-repeat: no-repeat;
   background-position:center;
